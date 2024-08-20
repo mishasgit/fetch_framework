@@ -5,4 +5,4 @@
 - open the folder with cloned progect in VS code IDE
 - go to root folder `fetch_framework` in menu Terminal click New Terminal
 - in opened terminal run `npm i` command to install dependencies
-- when all dependencies installed run command `run it` in terminal 
+- when all dependencies installed run command `run it` in terminal to run the programm
